@@ -3,4 +3,4 @@ This is Nothing
 <br>
 Author---Sourabh
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Sourabhmethi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourabhmethi&show_icons=true&theme=radical)
